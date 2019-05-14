@@ -4,5 +4,5 @@ after_success: echo "I'm done thx"
 
 notifications:
   email:
-   - spam@erikmolina.com 
+   - spam@erikmolina.com   
   on_success: always # default: change
